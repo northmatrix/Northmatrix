@@ -1,8 +1,8 @@
 # 🗻 Northmatrix
 
-Hello, my name is Jamie, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
+Hello, my name is *****, I am a programer from the UK 🇬🇧 ☕️ and i normally just code whatever i want whenever i want for no reason apart from the vibe.
 Recently ive been doing rust but i also do C and Python although most of those projects are private.
-I have a blog at https://northmatrix.co.uk where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.
+I have a blog at ![northmatrix.co.uk](https://northmatrix.co.uk) where i just post random stuff, you can also email me at contact@northmatrix.co.uk but im not sure why angone would want to.
 
 ## 💎 Most used languages
 
